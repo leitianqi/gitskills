@@ -1,2 +1,2 @@
-gitskills
-creating a new branch is quit.
+#Gitskills
+#Creating a new branch is quit AND simple.
