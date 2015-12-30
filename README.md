@@ -1,2 +1,6 @@
 #Gitskills
-#Creating a new branch is quit & simple.
+<<<<<<< HEAD
+#Creating a new branch is quit and simple.
+=======
+#Creating a new branch is quit and simple.
+>>>>>>> dev
