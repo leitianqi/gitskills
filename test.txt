@@ -1,2 +1,3 @@
 this is a test file.
 this test file is used to test how to learn git skills.
+now let's test the stash function!
